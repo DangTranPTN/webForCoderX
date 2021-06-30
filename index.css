@@ -1,0 +1,19 @@
+body{
+    background-color:#f0f2f5;
+    width: auto;
+    height: auto;
+}
+.main{
+    width: 100%;
+    height: 500px;
+    margin-top: 10%;
+    background-color: blanchedalmond;
+}
+/* .comp{
+    height: 100px;
+    width: 100%;
+    float: left;
+    padding-left: 10px;
+    border: 1px solid black;
+    background-color: aqua;
+} */
